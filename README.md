@@ -38,9 +38,7 @@ Agile is a lot more flexible and accounts for experimenting with different direc
 Budget:The budget for projects using the Waterfall methodology is generally fixed.Agile is open to adaptation, encourages experimentation and welcomes changes of direction, even in later phases of the project. Because of this, the budget tends to be more flexible.
 
 Waterfall is best suited for projects with a defined end goal. If a project owner has a clear and specific vision of an app, for example, and is confident it will not change throughout the project development, Waterfall methodologies could be a good system to follow.
-
 Meanwhile, Agile leaves a lot of room to adapt and change course as the project develops. It’s better suited for projects where the outcome may be dependent on more research or testing.
-
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -51,30 +49,6 @@ Project Manager: Oversees the planning, execution, and delivery of software proj
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments(IDE) help programmers develop software more efficiently. They provide a central interface for common developer tools, making the software development process much more efficient. Developers can start programming new applications quickly instead of manually integrating and configuring different software. They also don't have to learn about all the tools and can instead focus on just one application.
-Code editing automation
-Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
-
-Syntax highlighting
-An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
-
-Intelligent code completion
-Various search terms show up when you start typing words in a search engine. Similarly, an IDE can make suggestions to complete a code statement when the developer begins typing.
-
-Refactoring support
-Code refactoring is the process of restructuring the source code to make it more efficient and readable without changing its core functionality. IDEs can auto-refactor to some extent, allowing developers to improve their code quickly and easily. Other team members understand readable code faster, which supports collaboration within the team.
-
-Local build automation
-IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
-
-Compilation
-An IDE compiles or converts the code into a simplified language that the operating system can understand. Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
-
-Testing
-The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
-
-Debugging
-Debugging is the process of fixing any errors or bugs that testing reveals. One of the biggest values of an IDE for debugging purposes is that you can step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
-An example of an IDE is Visual Studio.
 
 Version control serves as a safety net to protect the source code from irreparable harm, giving the development team the freedom to experiment without fear of causing damage or creating code conflicts.
 If developers code concurrently and create incompatible changes, version control identifies the problem areas so that team members can quickly revert changes to a previous version, compare changes, or identify who committed the problem code through the revision history. With a version control system (VCS), a software team can solve an issue before progressing further into a project. Through code reviews, software teams can analyze earlier versions to understand the changes made to the code over time.
